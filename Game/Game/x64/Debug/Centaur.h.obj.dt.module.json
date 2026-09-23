@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Game\\x64\\Debug\\Centaur.obj",
+            "outputs": [
+                "Game\\x64\\Debug\\Centaur.h.obj.dt.module.json",
+                "Game\\x64\\Debug\\Centaur.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Game\\x64\\Debug\\Camel Faster.obj",
+            "outputs": [
+                "Game\\x64\\Debug\\Camel Faster.h.obj.dt.module.json",
+                "Game\\x64\\Debug\\Camel Faster.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
