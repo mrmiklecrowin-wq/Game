@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\vence\\desktop\\rasers\\gamedll\\camel_faster.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\vence\\desktop\\rasers\\gamedll\\camel_faster.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

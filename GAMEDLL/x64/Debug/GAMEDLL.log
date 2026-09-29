@@ -1,0 +1,38 @@
+﻿  Boots.cpp
+C:\Users\vence\Desktop\Rasers\GAMEDLL\Boots.cpp(6,15): warning C4273: Boots::Result_Math_Boots: несовместимое связывание dll
+      C:\Users\vence\Desktop\Rasers\GAMEDLL\Boots.h(15,9):
+      см. предыдущее определение "Boots::Result_Math_Boots"
+  
+  Broomstick.cpp
+C:\Users\vence\Desktop\Rasers\GAMEDLL\Broomstick.cpp(6,20): warning C4273: Broomstick::Result_Math_Broomstick: несовместимое связывание dll
+      C:\Users\vence\Desktop\Rasers\GAMEDLL\Broomstick.h(14,12):
+      см. предыдущее определение "Broomstick::Result_Math_Broomstick"
+  
+  Camel.cpp
+C:\Users\vence\Desktop\Rasers\GAMEDLL\Camel.cpp(5,15): warning C4273: Camel::Result_Math_Camel: несовместимое связывание dll
+      C:\Users\vence\Desktop\Rasers\GAMEDLL\Camel.h(18,9):
+      см. предыдущее определение "Camel::Result_Math_Camel"
+  
+  Camel_Faster.cpp
+C:\Users\vence\Desktop\Rasers\GAMEDLL\Camel_Faster.cpp(7,22): warning C4273: Camel_Faster::Result_Math_Camel_Faster: несовместимое связывание dll
+      C:\Users\vence\Desktop\Rasers\GAMEDLL\Camel_Faster.h(16,9):
+      см. предыдущее определение "Camel_Faster::Result_Math_Camel_Faster"
+  
+  Centaur.cpp
+C:\Users\vence\Desktop\Rasers\GAMEDLL\Centaur.cpp(5,17): warning C4273: Centaur::Result_Math_Centaur: несовместимое связывание dll
+      C:\Users\vence\Desktop\Rasers\GAMEDLL\Centaur.h(17,9):
+      см. предыдущее определение "Centaur::Result_Math_Centaur"
+  
+  Eagle.cpp
+C:\Users\vence\Desktop\Rasers\GAMEDLL\Eagle.cpp(7,15): warning C4273: Eagle::Result_Math_Eagle: несовместимое связывание dll
+      C:\Users\vence\Desktop\Rasers\GAMEDLL\Eagle.h(15,12):
+      см. предыдущее определение "Eagle::Result_Math_Eagle"
+  
+  Magic_carpet.cpp
+C:\Users\vence\Desktop\Rasers\GAMEDLL\Magic_carpet.cpp(5,22): warning C4273: Magic_Carpet::Result_Math_Magic_Carpet: несовместимое связывание dll
+      C:\Users\vence\Desktop\Rasers\GAMEDLL\Magic_carpet.h(15,12):
+      см. предыдущее определение "Magic_Carpet::Result_Math_Magic_Carpet"
+  
+  Создание кода...
+     Создается библиотека C:\Users\vence\Desktop\Rasers\x64\Debug\GAMEDLL.lib и объект C:\Users\vence\Desktop\Rasers\x64\Debug\GAMEDLL.exp
+  GAMEDLL.vcxproj -> C:\Users\vence\Desktop\Rasers\x64\Debug\GAMEDLL.dll
