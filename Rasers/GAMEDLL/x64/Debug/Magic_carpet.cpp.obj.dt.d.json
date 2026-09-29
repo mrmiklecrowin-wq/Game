@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\vence\\desktop\\rasers\\gamedll\\magic_carpet.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\vence\\desktop\\rasers\\gamedll\\magic_carpet.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

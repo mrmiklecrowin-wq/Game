@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\vence\\desktop\\rasers\\gamedll\\boots.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\vence\\desktop\\rasers\\gamedll\\boots.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
